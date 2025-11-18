@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.csv": "csv",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
