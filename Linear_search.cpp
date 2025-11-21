@@ -5,8 +5,9 @@ int linear_search(int arr[], int n, int k);
 
 int main()
 {
+    cout << "Kavy Vashishtha 25HEL2118 " << endl;
     int n;
-    cout << "Enter size of elements : ";
+    cout << "Enter size of array : ";
     cin >> n;
 
     int arr[n];

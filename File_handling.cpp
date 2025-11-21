@@ -22,4 +22,5 @@ int main()
 
     outfile.close();
     infile.close();
+    cout << "File has been written after removing all whitespaces ";
 }

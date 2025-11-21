@@ -16,13 +16,11 @@ int main()
         return 0;
     }
 
-    // Using a loop to calculate sum
     for (int i = 1; i <= n; i++)
     {
         sum += i;
     }
 
     cout << "Sum of first " << n << " natural numbers = " << sum;
-
     return 0;
 }

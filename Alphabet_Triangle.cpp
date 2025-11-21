@@ -17,16 +17,12 @@ int main()
 
 void pattern(int n)
 {
-
-	for (int i = 65; i <= (65 + n); i++)
+	for (int i = 65; i < (65 + n); i++)
 	{
-
 		for (int j = i; j >= 65; j--)
 		{
-
 			cout << (char)j << ' ';
 		}
-
 		cout << endl;
 	}
 }

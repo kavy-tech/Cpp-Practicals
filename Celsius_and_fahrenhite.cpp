@@ -4,7 +4,7 @@ int main()
 {
 	cout << "Kavy Vashishtha 25HEL2118 " << endl;
 	int temp, ch;
-	cout << "1.Celsius to Fahrenhite\n2.Fahrenhite to celsius :";
+	cout << "1.Celsius to Fahrenhite\n2.Fahrenhite to celsius :" << endl;
 	cin >> ch;
 	cout << "Enter Temperature : ";
 	cin >> temp;
